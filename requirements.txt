@@ -1,0 +1,11 @@
+# 3D Gomoku Game - Required Packages
+# 3D 오목 게임 - 필요한 패키지들
+
+# Pygame: 게임 개발을 위한 Python 라이브러리
+# - 그래픽 렌더링, 이벤트 처리, 사운드 재생 등을 제공
+pygame==2.5.2
+
+# NumPy: 수치 계산을 위한 Python 라이브러리
+# - 배열 연산, 수학 함수, 선형대수 등을 제공
+# - 바둑판 상태 관리와 AI 계산에 사용
+numpy==1.24.3 
